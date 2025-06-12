@@ -1,12 +1,42 @@
-# React + Vite
+🔁 1. Clone the Repository
+If you're starting fresh:
+git clone https://github.com/MOHDAZAM-08/Book-Management-App
+cd Book-Management-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+📦 2. Install All Dependencies
+Make sure you're inside the project folder:
+npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧾 3. Start the React Frontend
+npm run dev
+This will start the frontend on http://localhost:5173
 
-## Expanding the ESLint configuration
+🔌 4. Run the Mock Backend (json-server)
+✅ Create or verify you have db.json in root:
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Romance",
+      "year": 1925,
+      "status": "Available"
+    }
+    // ... more books
+  ]
+}
+✅ Then run:
+npm run api
+This runs your backend API at http://localhost:4000/books
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 How the Project Works
+React frontend runs on: http://localhost:5173
+
+Mock API (json-server) runs on: http://localhost:4000
+
+All book CRUD actions (GET, POST, PUT, DELETE) are done via http://localhost:4000/books
+
+You interact with this using Axios in your React services
+
