@@ -1,0 +1,192 @@
+{
+  "books": [
+    {
+      "_id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "status": "Issued",
+      "id": "fa14"
+    },
+    {
+      "_id": "3",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic",
+      "year": 1960,
+      "status": "Available",
+      "id": "edde"
+    },
+    {
+      "_id": "4",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "year": 1932,
+      "status": "Issued",
+      "id": "2e62"
+    },
+    {
+      "_id": "5",
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": 1851,
+      "status": "Available",
+      "id": "0a43"
+    },
+    {
+      "_id": "6",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "year": 1951,
+      "status": "Issued",
+      "id": "db88"
+    },
+    {
+      "_id": "7",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "status": "Available",
+      "id": "214c"
+    },
+    {
+      "_id": "8",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "status": "Issued",
+      "id": "cc96"
+    },
+    {
+      "_id": "9",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Horror",
+      "year": 1818,
+      "status": "Issued",
+      "id": "39a6"
+    },
+    {
+      "_id": "10",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Classic",
+      "year": 1866,
+      "status": "Available",
+      "id": "1081"
+    },
+    {
+      "_id": "11",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-apocalyptic",
+      "year": 2006,
+      "status": "Issued",
+      "id": "c87a"
+    },
+    {
+      "_id": "12",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Romance",
+      "year": 1847,
+      "status": "Available",
+      "id": "fd61"
+    },
+    {
+      "_id": "13",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Dystopian",
+      "year": 1953,
+      "status": "Issued",
+      "id": "812c"
+    },
+    {
+      "_id": "14",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "genre": "Horror",
+      "year": 1897,
+      "status": "Available",
+      "id": "002d"
+    },
+    {
+      "_id": "15",
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "genre": "Satire",
+      "year": 1969,
+      "status": "Available",
+      "id": "d6c7"
+    },
+    {
+      "_id": "16",
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "genre": "Political satire",
+      "year": 1945,
+      "status": "Issued",
+      "id": "90f0"
+    },
+    {
+      "_id": "17",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "genre": "Romance",
+      "year": 1847,
+      "status": "Available",
+      "id": "a837"
+    },
+    {
+      "_id": "18",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "year": 1988,
+      "status": "Available",
+      "id": "6034"
+    },
+    {
+      "_id": "19",
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "genre": "Fiction",
+      "year": 1954,
+      "status": "Issued",
+      "id": "4b4e"
+    },
+    {
+      "_id": "20",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Philosophical",
+      "year": 1890,
+      "status": "Available",
+      "id": "c334"
+    },
+    {
+      "id": "56ee",
+      "status": "Available",
+      "year": 2002,
+      "genre": "Mystery",
+      "author": "F. Scott Fitzgerald",
+      "title": "ABC"
+    },
+    {
+      "id": "cc96",
+      "_id": "8",
+      "title": "The Hobbit New ",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "status": "Available"
+    }
+  ]
+}
